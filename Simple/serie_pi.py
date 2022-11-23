@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input("Digite la cantidad de elementos para la serie"))
 
 serie = 1;
 denominador = 3
